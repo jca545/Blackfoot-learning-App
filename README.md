@@ -1,6 +1,5 @@
 # Blackfoot-learning-App
-### group project for CMPT 120, Fall 2022
-CMPT 120 - Introduction to Computing Science and Programming I
+CMPT 120, Fall 2022 - Introduction to Computing Science and Programming I
 
 This project implements an Audio Visual Language Learning App for Blackfoot. 
 
